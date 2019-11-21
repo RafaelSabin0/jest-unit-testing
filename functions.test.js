@@ -24,7 +24,7 @@ test('Should be falsy', () => {
 });
 
 // toEqual
-test('User should be Brad Traversy object', () => {
+test('User should be Rafael Sabino object', () => {
     expect(functions.createUser()).toEqual({ 
      firstName: 'Rafael',
      lastName: 'Sabino'
